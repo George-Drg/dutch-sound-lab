@@ -15,9 +15,15 @@ An interactive Dutch IPA and pronunciation-learning application designed for lea
 - Mark sounds as practised and export progress.
 - Consult external reference material linked in the app.
 
-## Live site
 
-After deploying to GitHub Pages, put your live link here (usually `https://YOUR_USERNAME.github.io/dutch-sound-lab/`).
+## 🌐 Live Demo
+
+**Try Dutch Sound Lab 2.0 online:**
+
+[Launch Dutch Sound Lab](https://george-drg.github.io/dutch-sound-lab/)
+
+Explore Dutch IPA sounds, listen to pronunciation examples, compare sounds, and practise with interactive exercises.
+
 
 ## Run locally
 
